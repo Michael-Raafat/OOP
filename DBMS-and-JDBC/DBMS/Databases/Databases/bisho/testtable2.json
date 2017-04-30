@@ -1,0 +1,67 @@
+{
+  "tableName": "testtable2",
+  "header": {
+    "colName": [
+      "name",
+      "id",
+      "salary",
+      "birthdate"
+    ],
+    "colType": [
+      "VARCHAR",
+      "INTEGER",
+      "FLOAT",
+      "DATE"
+    ]
+  },
+  "rows": [
+    {
+      "cells": [
+        {
+          "val": "Bishoy",
+          "dataType": "VARCHAR",
+          "ColumnName": "name"
+        },
+        {
+          "val": "1",
+          "dataType": "INTEGER",
+          "ColumnName": "id"
+        },
+        {
+          "val": "5000.0",
+          "dataType": "FLOAT",
+          "ColumnName": "salary"
+        },
+        {
+          "val": "1995-09-20",
+          "dataType": "DATE",
+          "ColumnName": "birthdate"
+        }
+      ]
+    },
+    {
+      "cells": [
+        {
+          "val": "Marc",
+          "dataType": "VARCHAR",
+          "ColumnName": "name"
+        },
+        {
+          "val": "1",
+          "dataType": "INTEGER",
+          "ColumnName": "id"
+        },
+        {
+          "val": "6000.0",
+          "dataType": "FLOAT",
+          "ColumnName": "salary"
+        },
+        {
+          "val": "1995-09-12",
+          "dataType": "DATE",
+          "ColumnName": "birthdate"
+        }
+      ]
+    }
+  ]
+}

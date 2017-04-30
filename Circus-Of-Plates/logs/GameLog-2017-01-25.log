@@ -1,0 +1,1714 @@
+[INFO ] 2017-01-25 17:02:05.425 MenuState - User chooses to Start game.
+[INFO ] 2017-01-25 17:02:05.441 DifficultyFactoryImp - User chooses Easy Difficulty
+[INFO ] 2017-01-25 17:02:05.580 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.581 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.581 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.582 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.582 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.582 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.583 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.583 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.584 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.584 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.584 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.585 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.585 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.585 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.585 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.585 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.586 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.586 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.586 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.586 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.587 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.587 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.587 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.587 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.587 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.588 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.588 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.588 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.588 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.589 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.589 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.589 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.589 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.589 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.589 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.590 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.590 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.590 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.590 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.591 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.591 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.591 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.591 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.591 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.591 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.592 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.593 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.593 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.593 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.594 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.594 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.594 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.594 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.595 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.595 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.595 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.595 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.596 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.596 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.596 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.596 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.596 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.597 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.597 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.597 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.597 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.597 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.598 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.598 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.598 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.599 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.599 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.599 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.599 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.600 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.600 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.600 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.600 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.600 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.601 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.601 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.601 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.601 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.601 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.602 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.602 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.602 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.602 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.603 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.603 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.603 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.603 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.604 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.604 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.604 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.604 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.605 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.605 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.605 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.605 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.606 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.606 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.606 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.606 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.607 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.607 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.607 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.607 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.608 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.608 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.608 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.609 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.609 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.609 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.609 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.610 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.610 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.610 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.610 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.610 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.611 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.611 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.611 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.611 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.611 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.611 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.612 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.612 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.612 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.612 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.612 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.612 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.613 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.613 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.613 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.613 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.613 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.613 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.614 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.614 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.614 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.614 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.614 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.614 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.614 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.615 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.615 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.615 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 17:02:05.615 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 17:02:05.615 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 17:02:05.745 PlayState - User chooses Start game.
+[INFO ] 2017-01-25 17:02:05.756 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.204 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.225 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.244 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.254 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.264 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.274 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.284 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.293 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.303 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.312 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.322 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.333 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.343 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.353 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.361 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.371 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.381 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.390 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.401 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.411 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.420 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.431 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.440 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.450 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.459 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.471 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.479 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.489 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.499 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.509 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.520 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.528 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.548 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.558 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.587 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.607 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.616 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.626 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.636 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.645 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:08.783 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 17:02:13.735 PlayState - User press Escape.
+[INFO ] 2017-01-25 17:02:52.884 PauseState - User chooses Resume game.
+[INFO ] 2017-01-25 17:02:52.886 PlayState - User chooses Resume game.
+[INFO ] 2017-01-25 17:03:45.680 PlayState - Game is Finished.
+[ERROR] 2017-01-25 17:03:45.700 GameThread - Null point exception happened in gameManager.update() due to executing it and the manager getting closed in the middle.
+[INFO ] 2017-01-25 21:01:12.900 MenuState - User chooses to Start game.
+[INFO ] 2017-01-25 21:01:12.938 DifficultyFactoryImp - User chooses Easy Difficulty
+[INFO ] 2017-01-25 21:01:13.073 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.074 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.074 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.075 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.075 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.075 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.076 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.076 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.076 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.076 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.077 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.077 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.077 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.077 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.078 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.078 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.078 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.078 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.079 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.079 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.080 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.080 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.080 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.081 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.081 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.081 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.082 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.082 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.082 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.083 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.083 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.084 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.084 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.084 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.084 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.085 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.085 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.085 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.085 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.085 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.086 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.086 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.086 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.086 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.086 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.088 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.089 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.090 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.091 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.091 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.091 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.091 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.092 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.092 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.093 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.093 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.093 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.093 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.094 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.094 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.094 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.094 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.094 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.095 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.095 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.095 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.096 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.096 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.096 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.096 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.096 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.097 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.097 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.097 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.098 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.098 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.098 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.099 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.099 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.099 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.100 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.100 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.100 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.101 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.101 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.101 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.102 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.102 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.102 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.103 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.103 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.103 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.103 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.103 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.104 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.104 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.104 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.104 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.105 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.105 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.105 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.106 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.106 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.106 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.106 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.107 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.107 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.107 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.108 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.108 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.108 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.109 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.109 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.109 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.109 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.110 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.110 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.111 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.111 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.111 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.111 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.112 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.112 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.112 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.112 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.113 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.113 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.113 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.114 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.114 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.114 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.114 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.115 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.115 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.115 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.115 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.116 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.116 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.116 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.116 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.116 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.117 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.117 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.117 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.117 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.117 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.118 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.118 InvertedChairImp - Inverted Chair Shape is Created.
+[INFO ] 2017-01-25 21:01:13.118 PlateImp - Plate Shape is Created.
+[INFO ] 2017-01-25 21:01:13.118 TrapeziumImp - Trapezium Shape is Created.
+[INFO ] 2017-01-25 21:01:13.238 PlayState - User chooses Start game.
+[INFO ] 2017-01-25 21:01:13.249 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.807 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.817 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.827 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.837 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.846 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.856 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.867 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.876 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.885 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.896 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.905 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.915 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.925 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.935 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.944 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.954 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.963 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.973 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.983 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:13.992 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:14.002 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:14.012 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:14.022 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:14.032 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:14.041 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:14.052 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:14.081 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.037 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.046 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.056 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.065 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.075 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.085 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.095 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.104 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.114 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.124 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.134 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.143 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.153 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.166 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.172 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.182 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.194 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.204 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.212 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.221 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.232 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.458 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.466 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.475 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.485 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.496 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.505 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.515 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.525 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.748 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.759 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.769 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.778 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.787 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.798 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.807 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.817 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.826 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.836 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.846 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.857 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.866 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.875 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.885 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.896 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.905 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.915 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.925 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.934 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.944 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:16.965 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.198 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.208 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.218 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.227 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.237 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.247 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.257 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.267 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.276 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.286 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.296 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.306 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.316 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.326 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.336 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.345 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.354 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.365 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.375 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.384 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.394 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.403 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.413 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.423 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.432 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:17.442 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.885 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.895 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.904 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.914 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.923 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.933 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.944 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.953 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.963 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.972 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.982 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:24.992 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.002 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.012 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.022 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.032 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.041 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.052 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.061 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.070 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.081 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.090 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.100 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.110 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.119 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.129 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.139 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.148 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.158 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.168 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.179 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.188 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.626 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.637 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.647 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.656 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.666 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.675 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.685 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.696 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.706 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.715 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.725 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.734 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.744 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.754 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.764 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.774 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.784 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.793 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.803 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.813 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.823 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.833 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.843 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.853 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.862 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.871 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.882 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.891 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:25.902 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.332 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.352 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.360 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.370 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.379 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.389 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.400 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.409 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.419 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.428 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.438 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.448 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.458 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.468 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.477 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.487 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.497 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.506 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.516 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.527 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.535 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.545 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.555 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.565 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.574 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.584 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.594 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.604 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:26.613 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:36.480 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:36.509 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:36.694 PlayState - Game is Finished.
+[ERROR] 2017-01-25 21:01:36.712 GameThread - Null point exception happened in gameManager.update() due to executing it and the manager getting closed in the middle.
+[INFO ] 2017-01-25 21:01:40.007 GameOverState - User chooses to go back to Menu
+[INFO ] 2017-01-25 21:01:41.952 MenuState - User chooses to Start game.
+[INFO ] 2017-01-25 21:01:41.952 DifficultyFactoryImp - User chooses Easy Difficulty
+[INFO ] 2017-01-25 21:01:41.964 PlayState - User chooses Start game.
+[INFO ] 2017-01-25 21:01:41.970 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.226 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.236 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.246 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.255 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.266 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.275 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.285 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.294 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.303 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.313 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.322 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.333 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.343 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.352 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.363 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.372 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.382 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.391 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.400 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.412 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.420 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.763 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.772 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.782 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.792 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.802 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.812 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.821 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.832 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.841 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.851 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.860 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.870 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.880 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.889 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:42.899 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:48.954 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:48.963 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:48.974 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:48.983 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:48.993 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.002 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.012 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.022 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.032 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.041 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.051 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.070 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.090 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.099 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.109 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.129 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.159 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.178 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.189 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.208 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.218 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.237 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.256 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.276 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.296 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.315 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.325 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.345 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.373 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.403 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.423 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.432 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.451 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.481 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.520 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.540 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.569 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.589 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.609 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.618 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.627 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.648 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.657 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.667 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.686 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.706 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.716 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.745 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.765 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.784 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.804 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.823 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.843 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.863 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:49.911 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.008 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.186 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.254 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.312 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.331 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.351 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.370 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.389 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.399 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.419 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.429 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.438 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.448 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.457 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.468 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.478 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.498 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.516 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.536 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.556 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.566 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.585 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.595 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.614 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.634 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.644 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.653 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.663 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.682 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.693 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.702 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.723 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.733 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.741 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.761 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.771 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.791 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.801 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.820 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.830 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.840 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.850 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.858 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.879 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.888 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.907 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.917 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.927 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.937 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.947 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.957 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.966 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.975 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.985 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:50.995 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:51.005 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:51.014 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:51.024 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:51.034 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:51.044 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:51.053 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:51.063 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:51.073 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.881 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.890 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.900 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.910 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.919 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.930 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.939 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.950 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.959 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.970 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.979 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:52.989 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.009 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.019 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.038 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.057 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.077 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.097 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.106 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.126 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.147 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.165 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.175 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.194 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.213 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.232 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.262 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.281 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.311 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.322 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.351 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.370 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.390 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.409 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.418 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.438 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.448 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.457 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.468 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.477 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.487 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.497 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.507 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.517 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.527 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.537 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.546 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.556 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.566 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.576 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.585 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.595 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.605 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.615 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.624 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.634 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.644 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.653 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.663 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.673 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.683 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.693 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.703 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.713 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.722 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.732 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.741 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.751 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.760 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.770 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.779 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.790 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.799 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:53.810 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.435 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.444 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.454 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.465 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.474 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.484 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.494 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.504 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.513 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.523 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.532 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.543 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.553 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.562 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.582 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.602 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.621 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.631 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.641 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.670 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.758 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.777 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.875 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.934 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.953 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.974 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:54.992 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.012 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.031 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.061 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.070 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.090 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.119 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.129 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.138 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.159 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.188 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.226 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.236 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.266 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.295 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.305 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.315 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.334 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.344 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.353 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.373 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.383 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.402 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.422 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.431 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.441 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.460 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.479 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.489 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.499 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.530 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.539 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.549 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.568 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.598 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.617 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.646 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.666 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.686 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.715 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.735 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.744 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.754 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.764 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.774 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.783 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.793 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:55.803 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.095 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.106 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.115 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.125 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.135 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.145 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.155 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.165 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.174 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.185 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.194 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.204 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.213 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.223 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.233 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.243 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.252 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.263 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.272 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.282 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.292 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.301 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.312 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.320 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.331 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.341 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.350 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.360 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.369 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:01:56.379 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.034 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.044 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.054 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.064 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.074 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.083 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.093 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.102 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.123 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.152 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.210 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.220 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.229 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.249 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.259 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.269 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.279 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.289 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.298 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.308 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:07.327 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.155 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.174 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.193 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.204 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.213 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.233 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.242 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.252 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.262 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.272 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.281 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.290 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.301 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.310 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.321 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.330 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.340 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.349 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.360 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.369 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.379 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.390 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.398 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.408 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.418 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.428 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.438 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.447 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.456 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.466 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.476 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.486 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.496 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.506 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.515 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.526 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.535 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.546 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.555 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.566 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.575 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.584 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.594 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.604 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.613 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.623 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.633 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.926 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.936 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.945 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.955 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.966 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.975 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.985 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:09.994 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.004 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.014 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.025 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.033 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.043 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.053 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.063 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.297 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.307 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.317 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.327 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.336 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.346 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.356 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.366 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.376 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.385 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.434 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.435 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.444 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.453 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.463 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.474 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.483 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.493 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.503 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.513 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.528 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.532 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.545 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.552 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.562 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.571 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.581 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.658 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.669 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.679 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:10.688 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:02:13.279 PlayState - Game is Finished.
+[ERROR] 2017-01-25 21:02:13.298 GameThread - Null point exception happened in gameManager.update() due to executing it and the manager getting closed in the middle.
+[INFO ] 2017-01-25 21:03:07.699 GameOverState - User chooses to go back to Menu
+[INFO ] 2017-01-25 21:03:09.995 MenuState - User chooses to Start game.
+[INFO ] 2017-01-25 21:03:09.995 DifficultyFactoryImp - User chooses Easy Difficulty
+[INFO ] 2017-01-25 21:03:10.006 PlayState - User chooses Start game.
+[INFO ] 2017-01-25 21:03:10.015 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.188 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.199 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.209 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.218 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.228 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.238 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.248 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.258 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.267 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.277 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.287 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.297 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.306 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.316 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.326 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.336 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.346 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.355 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.365 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.629 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.639 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.649 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.658 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.669 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.679 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.688 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.699 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.706 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.716 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.726 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.737 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.748 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.757 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.767 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:10.786 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.294 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.303 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.313 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.323 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.334 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.343 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.352 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.363 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.372 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.382 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.391 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.401 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.411 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.420 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.430 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.440 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.449 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.459 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.469 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.478 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.489 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.499 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.509 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:11.519 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:12.914 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:12.924 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:12.954 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:12.964 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:12.974 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:12.983 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:12.993 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.002 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.012 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.023 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.032 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.042 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.052 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.062 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.072 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.082 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.091 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.101 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.111 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.559 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.569 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.580 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.589 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.598 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.609 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.618 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.629 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.639 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.647 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.657 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.666 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.676 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.686 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.695 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.706 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.715 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.726 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.735 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.745 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.754 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.764 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.774 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.785 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.793 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.804 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:13.813 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.028 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.037 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.048 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.056 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.067 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.076 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.086 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.096 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.106 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.115 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.126 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.134 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.146 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.154 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.165 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.175 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.184 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.194 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.203 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.213 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.223 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.232 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.243 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.253 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.262 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.272 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.956 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.965 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.975 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.984 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:21.995 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.004 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.014 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.024 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.034 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.044 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.054 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.063 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.073 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.082 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.093 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.103 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.141 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:22.152 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.541 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.550 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.560 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.570 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.580 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.589 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.599 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.609 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.619 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.629 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.638 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.648 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.658 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.668 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.678 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.687 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.696 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.706 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.717 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.726 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.736 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.746 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.756 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.765 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.775 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.785 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.795 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.805 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.814 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.824 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.834 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.843 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.853 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.863 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.873 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.882 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.892 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.901 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.911 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.921 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.931 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.940 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.950 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.960 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.969 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.980 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.989 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:25.998 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.009 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.018 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.029 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.390 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.400 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.409 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.420 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.430 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.439 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.449 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.459 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.468 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.478 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.489 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.498 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.508 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.516 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.527 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.536 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.546 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.556 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.565 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.576 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.586 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.596 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.607 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.615 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.624 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.635 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.644 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.654 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.664 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.674 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.683 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.693 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.703 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.713 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.722 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.733 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.743 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.752 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.762 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.772 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.782 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.790 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.800 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:26.809 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.504 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.514 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.523 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.535 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.543 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.553 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.562 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.572 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.582 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.592 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.601 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.612 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.621 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.631 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.641 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.651 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.660 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.670 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.680 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.689 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.699 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.709 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.719 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.729 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.738 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.748 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.758 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.768 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.777 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.787 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.798 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.806 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.816 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.826 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.836 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.846 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.857 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.866 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.875 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.885 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.895 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.904 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.914 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.923 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.934 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.942 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:27.973 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.002 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.030 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.050 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.069 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.079 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.089 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.098 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.108 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.118 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.138 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.148 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.158 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.177 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.186 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.197 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.216 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.226 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.246 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.265 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.285 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.295 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.304 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.324 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.334 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.343 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.354 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.363 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.373 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.393 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.402 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.412 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.421 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.431 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.441 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.451 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.462 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.470 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.480 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.490 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.501 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.510 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.520 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.529 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.539 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.549 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.559 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.569 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.579 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.588 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.597 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.608 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.618 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.627 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.637 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.647 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.656 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:28.666 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.048 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.057 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.066 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.076 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.086 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.096 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.106 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.116 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.126 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.134 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.145 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.154 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.165 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.175 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.184 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.195 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.204 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.213 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.223 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.233 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.242 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.253 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.263 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.272 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.282 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.291 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.302 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.311 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.321 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.331 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.341 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.350 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.359 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.370 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.380 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.389 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.398 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.408 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.418 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.428 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.437 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.447 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.457 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.467 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.477 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.487 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.496 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:29.506 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:35.915 PlayState - Game is Finished.
+[ERROR] 2017-01-25 21:03:35.935 GameThread - Null point exception happened in gameManager.update() due to executing it and the manager getting closed in the middle.
+[INFO ] 2017-01-25 21:03:38.448 GameOverState - User chooses to go back to Menu
+[INFO ] 2017-01-25 21:03:40.472 MenuState - User chooses to Start game.
+[INFO ] 2017-01-25 21:03:40.472 DifficultyFactoryImp - User chooses Medium Difficulty
+[INFO ] 2017-01-25 21:03:40.483 PlayState - User chooses Start game.
+[INFO ] 2017-01-25 21:03:40.490 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:40.528 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:40.636 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:40.665 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:40.724 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:40.802 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.085 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.095 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.105 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.115 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.125 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.135 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.145 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.154 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.164 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.174 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.183 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.193 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.203 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.213 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.222 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.232 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.242 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.253 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.261 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.272 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.281 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.291 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.300 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.310 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.321 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.329 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.339 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.349 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.358 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.368 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.378 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.389 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.397 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.407 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.417 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.426 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:41.436 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.688 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.698 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.707 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.717 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.727 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.736 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.746 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.756 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.766 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.776 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.785 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.796 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.805 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.814 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.825 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.835 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.844 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.854 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.864 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.883 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.893 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.912 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.980 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:42.990 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.000 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.009 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.020 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.029 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.039 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.049 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.058 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.069 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.079 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.088 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.099 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.108 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.117 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.128 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.137 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.147 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.156 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.166 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.185 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.196 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.205 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.215 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.234 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.245 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.255 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.263 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.274 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.284 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.293 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.323 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.439 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.468 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.479 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.488 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.498 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.508 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.518 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.528 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.548 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:43.576 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.162 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.172 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.183 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.192 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.202 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.212 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.222 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.231 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.241 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.251 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.260 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.269 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.280 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.290 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.299 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.308 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.319 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.329 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.338 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.348 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.357 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.367 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.376 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.386 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.396 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.405 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.415 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.425 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.894 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.904 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.924 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.934 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.943 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.953 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.963 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.974 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.982 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:44.992 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.001 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.011 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.021 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.032 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.040 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.050 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.080 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.100 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.490 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.500 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.510 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.520 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.530 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.539 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.550 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.559 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.569 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.579 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:45.588 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.789 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.799 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.808 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.818 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.828 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.838 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.848 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.857 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.866 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.876 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.886 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.896 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.906 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.915 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.924 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.934 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.944 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:49.954 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.809 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.819 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.829 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.837 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.848 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.858 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.866 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.877 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.886 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.897 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.906 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.916 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.926 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.935 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.944 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.954 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.964 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.974 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.984 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:54.995 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.004 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.198 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.209 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.218 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.229 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.238 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.248 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.258 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.267 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.277 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.286 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.297 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.306 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.316 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.326 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.336 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.345 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.355 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.366 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.374 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.385 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.394 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.404 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:03:55.423 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.601 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.610 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.630 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.639 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.649 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.668 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.679 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.688 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.697 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.708 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.718 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.727 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.737 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.746 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.757 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.766 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.776 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.786 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.796 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.806 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.815 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.825 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.834 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.844 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.854 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.863 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.874 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.883 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.894 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.903 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.912 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.922 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.931 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:00.942 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.430 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.439 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.450 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.460 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.469 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.479 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.489 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.499 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.508 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.518 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.527 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.537 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.547 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.557 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.567 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.577 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.587 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.597 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.606 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.615 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.626 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.635 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.655 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.685 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.694 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:01.703 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:04.965 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:04.986 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:04.995 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.005 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.015 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.023 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.034 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.044 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.053 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.064 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.074 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.083 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.093 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:05.103 PlayState - User who controls mouse is moving.
+[INFO ] 2017-01-25 21:04:11.707 PlayState - Game is Finished.
+[ERROR] 2017-01-25 21:04:11.727 GameThread - Null point exception happened in gameManager.update() due to executing it and the manager getting closed in the middle.

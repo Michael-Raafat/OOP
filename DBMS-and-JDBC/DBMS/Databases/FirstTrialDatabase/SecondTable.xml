@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<savableTable table-name="SecondTable">
+    <header>
+        <colName>userID username Job</colName>
+        <colType>INTEGER VARCHAR VARCHAR</colType>
+    </header>
+</savableTable>

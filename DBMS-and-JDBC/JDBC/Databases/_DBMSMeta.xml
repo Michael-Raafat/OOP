@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dbmsMeta>
+    <defaultPath>/home/programajor/git/oop-group/DBMS/Databases</defaultPath>
+    <extension>XML</extension>
+    <password>dbmsRoot</password>
+    <userName>root</userName>
+</dbmsMeta>

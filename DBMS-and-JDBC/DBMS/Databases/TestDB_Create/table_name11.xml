@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<savableTable table-name="table_name11">
+    <header>
+        <colName>column_name1 column_name2 column_name3</colName>
+        <colType>VARCHAR INTEGER DATE</colType>
+    </header>
+    <row>
+        <column_name1 db-type="VARCHAR" type="java.lang.String">value1</column_name1>
+        <column_name2 db-type="INTEGER" type="java.lang.String">4</column_name2>
+        <column_name3 db-type="DATE" type="java.lang.String">2011-01-25</column_name3>
+    </row>
+<<<<<<< HEAD
+    <row>
+        <column_name1 db-type="VARCHAR" type="java.lang.String">value1</column_name1>
+        <column_name2 db-type="INTEGER" type="java.lang.String">4</column_name2>
+        <column_name3 db-type="DATE" type="java.lang.String">2013-06-30</column_name3>
+    </row>
+    <row>
+        <column_name1 db-type="VARCHAR" type="java.lang.String">value2</column_name1>
+        <column_name2 db-type="INTEGER" type="java.lang.String">5</column_name2>
+        <column_name3 db-type="DATE" type="java.lang.String">2013-07-03</column_name3>
+    </row>
+=======
+>>>>>>> branch 'master' of https://Michael_Raafat@bitbucket.org/Marc_Magdi/oop-group.git
+</savableTable>

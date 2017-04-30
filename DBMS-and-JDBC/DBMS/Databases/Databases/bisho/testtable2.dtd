@@ -1,0 +1,19 @@
+<!ELEMENT savableTable (header,row*)>
+<!ELEMENT header (colName,colType)>
+<!ELEMENT colName (#PCDATA)>
+<!ELEMENT colType (#PCDATA)>
+<!ELEMENT row (name,id,salary,birthdate)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+<!ELEMENT birthdate (#PCDATA)>
+
+<!ATTLIST savableTable table-name CDATA #REQUIRED>
+<!ATTLIST name db-type CDATA #REQUIRED>
+<!ATTLIST name type CDATA #REQUIRED>
+<!ATTLIST id db-type CDATA #REQUIRED>
+<!ATTLIST id type CDATA #REQUIRED>
+<!ATTLIST salary db-type CDATA #REQUIRED>
+<!ATTLIST salary type CDATA #REQUIRED>
+<!ATTLIST birthdate db-type CDATA #REQUIRED>
+<!ATTLIST birthdate type CDATA #REQUIRED>

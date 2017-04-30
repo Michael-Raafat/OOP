@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1"  fx:controller="controllers.PauseMenuController">
+    <children>
+    <VBox>
+     <Button layoutX="126" layoutY="180" text="Resume game" onAction="#handleResumeGame"/>
+        <Button layoutX="126" layoutY="180" text="Save game" onAction="#handleSaveGame"/>
+        <Button layoutX="126" layoutY="180" text="Return to menu" onAction="#handleReturnToMenuGame"/>
+        <Button layoutX="126" layoutY="180" text="Exit" onAction="#handleExitGame"/>
+    </VBox>
+    </children>
+</AnchorPane>

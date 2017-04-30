@@ -1,0 +1,12 @@
+{
+  "tableName": "testjson",
+  "header": {
+    "colName": [
+      "id"
+    ],
+    "colType": [
+      "INTEGER"
+    ]
+  },
+  "rows": []
+}

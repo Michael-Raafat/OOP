@@ -1,0 +1,13 @@
+<!ELEMENT savableTable (header,row*)>
+<!ELEMENT header (colName,colType)>
+<!ELEMENT colName (#PCDATA)>
+<!ELEMENT colType (#PCDATA)>
+<!ELEMENT row (id,name)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+
+<!ATTLIST savableTable table-name CDATA #REQUIRED>
+<!ATTLIST id db-type CDATA #REQUIRED>
+<!ATTLIST id type CDATA #REQUIRED>
+<!ATTLIST name db-type CDATA #REQUIRED>
+<!ATTLIST name type CDATA #REQUIRED>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Group fx:id="mainArea" xmlns:fx="http://javafx.com/fxml" fx:controller="controllers.MainMenuController">
+    <VBox spacing="10" alignment="center" 
+        GridPane.columnIndex="1" GridPane.rowIndex="4">
+        <Button text="New Game" onAction="#handleStartGame" fx:id="startGameBtn"/>
+        <Button text="Load" onAction="#handleLoadGame"/>
+        <Button text="Exit" onAction="#handleQuitGame"/>
+    </VBox>
+</Group>

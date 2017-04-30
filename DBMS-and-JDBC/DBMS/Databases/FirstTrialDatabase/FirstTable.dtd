@@ -1,0 +1,16 @@
+<!ELEMENT savableTable (header,row*)>
+<!ELEMENT header (colName,colType)>
+<!ELEMENT colName (#PCDATA)>
+<!ELEMENT colType (#PCDATA)>
+<!ELEMENT row (userID,username,Job)>
+<!ELEMENT userID (#PCDATA)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT Job (#PCDATA)>
+
+<!ATTLIST savableTable table-name CDATA #REQUIRED>
+<!ATTLIST userID db-type CDATA #REQUIRED>
+<!ATTLIST userID type CDATA #REQUIRED>
+<!ATTLIST username db-type CDATA #REQUIRED>
+<!ATTLIST username type CDATA #REQUIRED>
+<!ATTLIST Job db-type CDATA #REQUIRED>
+<!ATTLIST Job type CDATA #REQUIRED>

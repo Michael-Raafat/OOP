@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.*?>
+
+<Pane xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.SelectDifficultyDialogController">
+    <VBox>
+	    <Button text="Easy" onAction="#selectDifficulty"/>
+		<Button text="Medium" onAction="#selectDifficulty"/>
+		<Button text="Hard" onAction="#selectDifficulty"/>
+    </VBox>
+</Pane>

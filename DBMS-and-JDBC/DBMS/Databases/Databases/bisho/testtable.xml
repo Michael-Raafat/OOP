@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<savableTable table-name="testtable">
+    <header>
+        <colName>id name</colName>
+        <colType>INTEGER VARCHAR</colType>
+    </header>
+    <row>
+        <id db-type="INTEGER" type="java.lang.String">1</id>
+        <name db-type="VARCHAR" type="java.lang.String">bishoy</name>
+    </row>
+    <row>
+        <id db-type="INTEGER" type="java.lang.String">2</id>
+        <name db-type="VARCHAR" type="java.lang.String">mico</name>
+    </row>
+</savableTable>

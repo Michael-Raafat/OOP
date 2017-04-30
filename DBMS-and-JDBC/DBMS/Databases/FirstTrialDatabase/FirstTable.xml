@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<savableTable table-name="FirstTable">
+    <header>
+        <colName>userID username Job</colName>
+        <colType>INTEGER VARCHAR VARCHAR</colType>
+    </header>
+    <row>
+        <userID db-type="INTEGER" type="java.lang.String">2</userID>
+        <username db-type="VARCHAR" type="java.lang.String">7amada</username>
+        <Job db-type="VARCHAR" type="java.lang.String">Eng</Job>
+    </row>
+    <row>
+        <userID db-type="INTEGER" type="java.lang.String">2</userID>
+        <username db-type="VARCHAR" type="java.lang.String">Nader</username>
+        <Job db-type="VARCHAR" type="java.lang.String">Teach</Job>
+    </row>
+    <row>
+        <userID db-type="INTEGER" type="java.lang.String">3</userID>
+        <username db-type="VARCHAR" type="java.lang.String">Fathy</username>
+        <Job db-type="VARCHAR" type="java.lang.String">Doc</Job>
+    </row>
+</savableTable>

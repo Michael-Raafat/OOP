@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.*?>
+
+<Pane xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.WinnerController">
+    <VBox>
+	    <Label fx:id="winnerText" text=""/>
+		<Button text="Back to menu" onAction="#handleBackToMenu"/>
+		<Button text="Close" onAction="#handleClose"/>
+    </VBox>
+</Pane>
