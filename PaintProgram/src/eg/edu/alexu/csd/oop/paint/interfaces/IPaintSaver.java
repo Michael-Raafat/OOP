@@ -2,7 +2,6 @@ package eg.edu.alexu.csd.oop.paint.interfaces;
 
 import java.io.File;
 
-import eg.edu.alexu.csd.oop.paint.drawComponents.DrawingBoard;
 /**
  * Interface that describes the saving and loading functionalities
  * of our project.

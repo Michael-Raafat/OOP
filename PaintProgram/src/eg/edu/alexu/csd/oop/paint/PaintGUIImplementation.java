@@ -20,6 +20,7 @@ import java.util.Enumeration;
 import java.util.jar.JarEntry;
 import java.util.jar.JarFile;
 
+import javax.jnlp.BasicService;
 import javax.swing.JButton;
 import javax.swing.JColorChooser;
 import javax.swing.JFileChooser;
@@ -43,6 +44,10 @@ import eg.edu.alexu.csd.oop.paint.interfaces.IPaintSaver;
  *
  */
 public class PaintGUIImplementation implements ActionListener {
+	/**
+	 * Service for our JNLP.
+	 */
+	private static BasicService service = null;
 	/**
 	 * The framePanel to hold all the GUI pieces.
 	 */
@@ -257,6 +262,7 @@ public class PaintGUIImplementation implements ActionListener {
 		    String className = je.getName()
 		    	.substring(0, je.getName().length()
 		    			- ".class".length());
+		    System.out.println(className);
 		    className = className.replace('/', '.');
 		    Class<? extends GeoShapes> c = null;
 			try {

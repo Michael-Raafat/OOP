@@ -8,10 +8,7 @@ import java.util.ArrayList;
 
 import eg.edu.alexu.csd.oop.paint.abstractComponents.GeoShapes;
 import eg.edu.alexu.csd.oop.paint.helpers.Config;
-/**
- * Rectangle class.
- * @author Mico
- */
+
 public class Rectangle extends GeoShapes {
 	/**
 	 * new Rectangle.
@@ -24,7 +21,7 @@ public class Rectangle extends GeoShapes {
 	 * @param border
 	 * color of Rectangle's border
 	 */
-	public Rectangle(final Color border) {
+	public Rectangle(Color border) {
 		this(border, Config.getDefaultThickness());
 	}
 	/**
@@ -34,7 +31,7 @@ public class Rectangle extends GeoShapes {
 	 * @param thick
 	 * thickness of border.
 	 */
-	public Rectangle(final Color border, final int thick) {
+	public Rectangle(Color border, int thick) {
 		this(border, Config.getDefaultFillColor(), thick);
 	}
 	/**
@@ -46,7 +43,7 @@ public class Rectangle extends GeoShapes {
 	 * @param fill
 	 * fill color of Rectangle.
 	 */
-	public Rectangle(final Color border, final Color fill, final int thick) {
+	public Rectangle(Color border, Color fill, int thick) {
 		this.numberOfPointsNeeded = 2;
 		this.points = new ArrayList<Point>();
 		this.center = new Point();
@@ -58,24 +55,24 @@ public class Rectangle extends GeoShapes {
 	}
 
 	@Override
-	public void drawShape(final Graphics2D g) {
+	public void drawShape(Graphics2D g) {
 		// TODO Auto-generated method stub
 		g.setStroke(new BasicStroke(thickness));
 		helpDraw(g, points.get(1));
 	}
 
 	@Override
-	public void testDrawShape(final Graphics2D g, final Point temp) {
+	public void testDrawShape(Graphics2D g, Point temp) {
 		// TODO Auto-generated method stub
 		g.setStroke(new BasicStroke(thickness));
 		if (points.size() == 1) {
-			helpDraw(g, temp);
+			helpDraw(g,temp);
 		} else if (points.size() == 2) {
 			drawShape(g);
 		}
 	}
 
-	public void helpDraw(final Graphics2D g, final Point temp) {
+	public void helpDraw(Graphics2D g, Point temp) {
 		g.setColor(fillColor);
 		g.fillRect(points.get(0).x - Math.abs(temp.x - points.get(0).x)  ,
 				points.get(0).y - Math.abs(temp.y - points.get(0).y) ,

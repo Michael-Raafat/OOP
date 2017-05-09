@@ -8,10 +8,7 @@ import java.util.ArrayList;
 
 import eg.edu.alexu.csd.oop.paint.abstractComponents.GeoShapes;
 import eg.edu.alexu.csd.oop.paint.helpers.Config;
-/**
- * Ellipse class.
- * @author Mico
- */
+
 public class Ellipse extends GeoShapes {
 	/**
 	 * new ellipse.
@@ -24,7 +21,7 @@ public class Ellipse extends GeoShapes {
 	 * @param border
 	 * color of ellipse's border
 	 */
-	public Ellipse(final Color border) {
+	public Ellipse(Color border) {
 		this(border, Config.getDefaultThickness());
 	}
 	/**
@@ -34,7 +31,7 @@ public class Ellipse extends GeoShapes {
 	 * @param thick
 	 * thickness of border.
 	 */
-	public Ellipse(final Color border, final int thick) {
+	public Ellipse(Color border, int thick) {
 		this(border, Config.getDefaultFillColor(), thick);
 	}
 	/**
@@ -46,7 +43,7 @@ public class Ellipse extends GeoShapes {
 	 * @param fill
 	 * fill color of ellipse.
 	 */
-	public Ellipse(final Color border, final Color fill, final int thick) {
+	public Ellipse(Color border, Color fill, int thick) {
 		this.numberOfPointsNeeded = 2;
 		this.points = new ArrayList<Point>();
 		this.center = new Point();
@@ -58,7 +55,7 @@ public class Ellipse extends GeoShapes {
 	}
 
 	@Override
-	public final void drawShape(final Graphics2D g) {
+	public void drawShape(Graphics2D g) {
 		// TODO Auto-generated method stub
 		g.setStroke(new BasicStroke(thickness));
 		g.setColor(fillColor);
@@ -70,7 +67,7 @@ public class Ellipse extends GeoShapes {
 	}
 
 	@Override
-	public final void testDrawShape(final Graphics2D g, final Point temp) {
+	public void testDrawShape(Graphics2D g, Point temp) {
 		// TODO Auto-generated method stub
 		g.setStroke(new BasicStroke(thickness));
 		if (points.size() == 1) {
@@ -92,7 +89,7 @@ public class Ellipse extends GeoShapes {
 	}
 
 	@Override
-	public final void enterPoint(final Point p) {
+	public void enterPoint(Point p) {
 		// TODO Auto-generated method stub
 		if (getPointsListSize() >= numberOfPointsNeeded) {
 			throw new RuntimeException();
@@ -100,6 +97,7 @@ public class Ellipse extends GeoShapes {
 			if (getPointsListSize() == 0) {
 				points.add(p);
 				center = p;
+				
 			} else {
 				points.add(p);
 				width = Math.abs(p.x - center.x) * 2;
@@ -110,7 +108,7 @@ public class Ellipse extends GeoShapes {
 	}
 
 	@Override
-	protected final void calculateCenter() {
+	protected void calculateCenter() {
 		// TODO Auto-generated method stub
 		center = points.get(0);
 		width = Math.abs(points.get(1).x - center.x) * 2;

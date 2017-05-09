@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * Abstract Class of the paint program.
  * It describes the general fields and behavior
  * of any shape that will be drawn.
- * @author Amr&Mico
+ * @author Amr&Michael
  * OOP 2nd! assignment.
  */
 
